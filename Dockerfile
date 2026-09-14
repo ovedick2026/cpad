@@ -1,4 +1,4 @@
-FROM eceasy/cli-proxy-api:latest
+FROM eceasy/cli-proxy-api:v7.1.19
 
 # 安装 cloudflared
 # 自动识别 CPU 架构
